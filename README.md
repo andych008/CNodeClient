@@ -2,7 +2,7 @@
 
 ![Logo](/art/ic_launcher.png)
 
-> 特别感谢 [TakWolf](https://github.com/TakWolf)大大的 [CNode-Material-Design](https://github.com/TakWolf/CNode-Material-Design) 项目的大力支持(本人是无耻的搬运工)
+> 特别感谢 [TakWolf](https://github.com/TakWolf) 大大的 [CNode-Material-Design](https://github.com/TakWolf/CNode-Material-Design) 项目的大力支持(本人是无耻的搬运工)
 
 > [CNode社区](https://cnodejs.org) 第三方Android客户端，原生App，Material Design风格，支持夜间模式, 修改自 [CNode-Material-Design](https://github.com/TakWolf/CNode-Material-Design)
 
